@@ -12,4 +12,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-![WEATHER APP](https://raw.githubusercontent.com/tegarp00/weather-app/tree/main/public/weather.png)
+![WEATHER APP](https://raw.githubusercontent.com/tegarp00/weather-app/refs/heads/main/public/weather.png)
